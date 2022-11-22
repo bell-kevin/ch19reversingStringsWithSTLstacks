@@ -1,0 +1,3 @@
+﻿  ch19reversingStringsSTLstacks.cpp
+C:\Users\4800590195\source\repos\ch19reversingStringsSTLstacks\ch19reversingStringsSTLstacks\ch19reversingStringsSTLstacks.cpp(89,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ch19reversingStringsSTLstacks.vcxproj -> C:\Users\4800590195\source\repos\ch19reversingStringsSTLstacks\x64\Debug\ch19reversingStringsSTLstacks.exe
